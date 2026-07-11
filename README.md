@@ -2,9 +2,11 @@
 
 👨🏻‍💻 Sobre Mim
 
-Me chamo Henrique Figueiredo, estudante de CST em Ciência de Dados na UNINTER, com atuação prática em Ciência de Dados.
+Sou o Henrique Figueiredo, estudante de Ciência de Dados na UNINTER com foco em transformar dados brutos em soluções de inteligência e automação.
 
-Desenvolvo e orquestro pipelines de dados escaláveis, unindo eficiência técnica e propósito. Trabalho com Python, Databricks, BigQuery, dbt, AWS, Airflow, Airbyte, Cloud Run Jobs, Fivetran e APIs REST/Web Scraping para automação de processos de ingestão e transformação.
+Desenvolvo e orquestro pipelines de dados, unindo eficiência técnica e propósito. Trabalho com Python e suas bibliotecas, SQL, Matlab, Databricks, BigQuery, AWS e Airflow, para processos de ingestão, transformação e modelagem conceitual e lógica. 
+
+Além disso, aplico Machine Learning e Visão Computacional no desenvolvimento de modelos preditivos e inteligência artificial para o dia a dia do negócio.
 
 Tenho experiência em modelagem, governança e qualidade de dados, além de liderança técnica, comunicação clara e foco em entregas de valor real. 
 
