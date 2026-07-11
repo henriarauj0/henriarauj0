@@ -26,3 +26,8 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
 </p>
+
+## 🐍 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henriarauj0/henriarauj0/output/github-contribution-grid-snake.svg" alt="Snake game" />
+</p>
