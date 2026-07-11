@@ -18,3 +18,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=henriarauj0&theme=onedark" alt="henriarauj0 trophies" />
+</p>
