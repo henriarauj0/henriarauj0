@@ -24,9 +24,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 # 🎮 Meu Mascote Virtual
 Clique nos botões abaixo para interagir com Kurama!
 
-<div align="center">
-  <img src="https://imgur.com/a/lRFpn9s" width="250" alt="Kurama Pixel Art">
-</div>
+![Kurama Pixel Art] https://imgur.com/a/lRFpn9s
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
