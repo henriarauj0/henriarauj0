@@ -21,10 +21,20 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
   </a>
 </p>
 
-🎮 Clique nos botões abaixo para interagir com Kurama!
+# 🎮 Meu Mascote Virtual
+Clique nos botões abaixo para interagir com Kurama!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
+</p>
+
+<p align="center">
+  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=Pet+the+Gengar">
+    <img src="https://img.shields.io/badge/👋_Dar_Carinho-purple?style=for-the-badge" alt="Carinho">
+  </a>
+  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=Feed+the+Gengar">
+    <img src="https://img.shields.io/badge/🍕_Alimentar-orange?style=for-the-badge" alt="Alimentar">
+  </a>
 </p>
 
 ## 🐍 
