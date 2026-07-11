@@ -25,7 +25,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 Clique nos botões abaixo para interagir com Kurama!
 
 <div align="center">
-  <img img width="513" height="486" alt="kuramapixelart-removebg-preview" src="https://github.com/user-attachments/assets/fc37db80-1069-4ec3-939f-20a0dbef0983" />
+  <img img width="51" height="48" alt="kuramapixelart-removebg-preview" src="https://github.com/user-attachments/assets/fc37db80-1069-4ec3-939f-20a0dbef0983" />
 </div>
 
 <p align="center">
