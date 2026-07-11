@@ -18,11 +18,18 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+# 🎮 Meu Mascote Virtual
+Clique nos botões abaixo para interagir com o Gengar!
 
-# 🎮 Vamos jogar um Jogo da Velha?
-
-<!-- START TIC-TAC-TOE -->
 <p align="center">
-  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=ttte%3Ajoin"><img src="https://github-tic-tac-toe.vercel.app/api/image/henriarauj0" alt="Jogo da Velha" width="300"></a>
+  <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
 </p>
-<!-- END TIC-TAC-TOE -->
+
+<p align="center">
+  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=Pet+the+Gengar">
+    <img src="https://img.shields.io/badge/👋_Dar_Carinho-purple?style=for-the-badge" alt="Carinho">
+  </a>
+  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=Feed+the+Gengar">
+    <img src="https://img.shields.io/badge/🍕_Alimentar-orange?style=for-the-badge" alt="Alimentar">
+  </a>
+</p>
