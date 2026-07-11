@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Sobre Mim
 
-Sou o Henrique Figueiredo, estudante de Ciência de Dados na UNINTER com foco em transformar dados brutos em soluções de inteligência e automação.
+Me chamo Henrique Figueiredo, estudante de Ciência de Dados na UNINTER com foco em transformar dados brutos em soluções de inteligência e automação.
 
 Desenvolvo e orquestro pipelines de dados, unindo eficiência técnica e propósito. Trabalho com Python e suas bibliotecas, SQL, Matlab, Databricks, BigQuery, AWS e Airflow, para processos de ingestão, transformação e modelagem conceitual e lógica. 
 
@@ -23,6 +23,10 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 
 # 🎮 Meu Mascote Virtual
 Clique nos botões abaixo para interagir com Kurama!
+
+<div align="center">
+  <img src="https://imgur.com/a/lRFpn9s.png" width="250" alt="Kurama Pixel Art">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
