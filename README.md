@@ -35,3 +35,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
     <img src="https://img.shields.io/badge/🍕_Alimentar-orange?style=for-the-badge" alt="Alimentar">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henriarauj0/henriarauj0/output/github-contribution-grid-snake.svg" alt="Snake game" />
+</p>
