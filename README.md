@@ -18,8 +18,9 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-# 🎮 Meu Mascote Virtual
-Clique nos botões abaixo para interagir com o Gengar!
+
+🎮 Meu Mascote Virtual
+Clique nos botões abaixo para interagir com Kurama!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
