@@ -36,6 +36,3 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henriarauj0/henriarauj0/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</p>
