@@ -19,8 +19,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
   </a>
 </p>
 
-🎮 Meu Mascote Virtual
-Clique nos botões abaixo para interagir com Kurama!
+🎮 Clique nos botões abaixo para interagir com Kurama!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Feliz_e_Alimentado-brightgreen?style=for-the-badge&logo=pokemon" alt="Status">
