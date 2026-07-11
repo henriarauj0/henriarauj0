@@ -10,11 +10,11 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql,docker,github,md,matlab,notion,vscode)](https://skillicons.dev)
 
-(<p align="center">
+<p align="center">
   <a href="https://instagram.com/henriaraujjo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="(https://www.linkedin.com/in/henriquefigueiredoac)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>)
+</p>
