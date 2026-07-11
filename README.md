@@ -19,6 +19,10 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
   </a>
 </p>
 
+# 🎮 Vamos jogar um Jogo da Velha?
+
+<!-- START TIC-TAC-TOE -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriarauj0&theme=onedark" alt="henriarauj0 trophies" />
+  <a href="https://github.com/henriarauj0/henriarauj0/issues/new?title=ttte%3Ajoin"><img src="https://github-tic-tac-toe.vercel.app/api/image/henriarauj0" alt="Jogo da Velha" width="300"></a>
 </p>
+<!-- END TIC-TAC-TOE -->
