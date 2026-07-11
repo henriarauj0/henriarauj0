@@ -25,7 +25,7 @@ Tenho experiência em modelagem, governança e qualidade de dados, além de lide
 Clique nos botões abaixo para interagir com Kurama!
 
 <div align="center">
-  <img src="https://imgur.com/a/lRFpn9s.png" width="250" alt="Kurama Pixel Art">
+  <img src="https://imgur.com/a/lRFpn9s" width="250" alt="Kurama Pixel Art">
 </div>
 
 <p align="center">
